@@ -68,7 +68,7 @@ html {
   text-decoration: none;
 }
 
-.cards a:hober {
+.cards a:hover {
   background-color: #333;
   color: #fff;
 }
